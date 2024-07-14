@@ -30,3 +30,6 @@ This will align and stack the two test images and save the result as `testOutput
 
 ## Research
 - [Online article on a fast image fitting algorithm for fusion (in polish)](https://automatykaonline.pl/Artykuly/Sterowanie/szybki-algorytm-dopasowania-obrazow-dla-potrzeb-fuzji-w-czasie-rzeczywistym)
+
+## Development state
+Right now the application is in early planning phase. The first version is planned to be a simple image fusing software working only on light frames and without any GUI.
